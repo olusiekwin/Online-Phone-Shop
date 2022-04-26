@@ -113,7 +113,7 @@
             "id": 2,
             "title": "Apple iPhone 11",
             "image": "./images/products/iphone/iphone1.jpeg",
-            "price": 300,
+            "price": 300000,
             "category": "Special Products"
         },
         {
@@ -155,7 +155,7 @@
             "id": 21,
             "title": "Sony WH-CH510",
             "image": "./images/products/headphone/headphone11.jpeg",
-            "price": 700,
+            "price": 3700,
             "category": "Trending Products"
         },
 
